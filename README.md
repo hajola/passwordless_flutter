@@ -2,7 +2,7 @@
 
 This app shows the implementation of passwordless authentication on Flutter using the Firebase auth service. For state management it uses the BLOC pattern with RxDart.
 
-A detailed guide is available here.
+A detailed guide is available here: https://link.medium.com/nLhtZgRfBZ
 
 ## Running the project
 
